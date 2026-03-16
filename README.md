@@ -69,3 +69,11 @@ Dashboard Links
 Storyboard Link
 - Housing Market Storyboard : https://public.tableau.com/shared/JW6WX3NJ8?:display_count=n&:origin=viz_share_link
 
+📖 Documentation
+- Detailed workflow documented in README.md and project notes:
+  - Data Collection → Kaggle dataset imported (Housing.csv).
+  - Data Cleaning → handled nulls, standardized categories, created calculated fields.
+  - Data Visualization → KPI metrics, renovation impact, category comparisons.
+  - Dashboard → interactive layout with filters and KPIs.
+  - Storyboard → narrative flow highlighting renovation trends, furnishing effects, and market distribution.
+  - Documentation includes screenshots, stepwise explanations, and GitHub README updates for each milestone.
