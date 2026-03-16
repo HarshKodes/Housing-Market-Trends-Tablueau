@@ -40,3 +40,14 @@ Repository Contents
   - Applied filters to handle non‑renovated houses (Years since Renovation = 0).
   - Added labels and formatting for clarity.
 
+📊 Dashboard Added
+- Combined key visualizations into a single interactive dashboard:
+  - ✅ KPI Cards showing Count of Housing Data, Average Sale Prices, and Average Area (Basement only).
+  - ✅ Total Sale Price by Years Since Renovation (bar/line chart with filters).
+  - ✅ Integrated categorical filters (Basement, Furnishing Status, Airconditioning) for dynamic exploration.
+- Designed layout for clarity:
+- Clean alignment of KPI metrics at the top.
+- Trend and distribution charts arranged for storytelling flow.
+- Filters placed on the side for easy user interaction.
+- Dashboard saved in Tableau workbook (housing-project.twbx) and ready for publishing to Tableau Public.
+
