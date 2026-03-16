@@ -20,7 +20,7 @@ Workflow
 Repository Contents
 - Data-Analysis.ipynb → Colab notebook with dataset exploration
 
-🧹 Data Cleaning Progress
+🧹 Data Cleaning :
 - Checked dataset in Tableau for null values using filters.
 - Verified numeric vs categorical fields (e.g., Price, Area, Bedrooms, Bathrooms, Furnishing Status).
 - Began handling missing values:
@@ -28,3 +28,15 @@ Repository Contents
 - Replaced nulls in optional fields (e.g., Year Renovated → “Not Renovated”).
 - Standardized categorical values (e.g., “yes/no” → “Yes/No”, furnishing status categories aligned).
 - Saved cleaned workbook (housing-project.twbx) for further visualization.
+
+📊 Data Visualization :
+- Task 1: KPI Metrics
+  - Created visualization showing:
+  - ✅ Count of Housing Data (total records in dataset)
+  - ✅ Average Sale Prices (overall market pricing trend)
+  - ✅ Average Area (Basement only) using filters for Basement = Yes
+- Task 2: Total Sale by Years Since Renovation
+  - Built a bar/line chart showing Sum of Sale Prices grouped by Years Since Renovation.
+  - Applied filters to handle non‑renovated houses (Years since Renovation = 0).
+  - Added labels and formatting for clarity.
+
