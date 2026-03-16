@@ -51,3 +51,12 @@ Repository Contents
 - Filters placed on the side for easy user interaction.
 - Dashboard saved in Tableau workbook (housing-project.twbx) and ready for publishing to Tableau Public.
 
+🎬 Storyboard Added
+- Developed a narrative flow in Tableau Storyboard to guide viewers through housing market insights.
+- Story points include:
+  - Overview KPIs → Count of Housing Data, Average Sale Prices, Average Area (Basement only).
+  - Renovation Impact → Total Sale Price by Years Since Renovation, highlighting trends in property value over time.
+  - Category Comparisons → Furnishing Status, Basement, and Airconditioning filters to show how amenities affect pricing.
+  - Market Distribution → Visuals of price ranges and area sizes to illustrate spread across the dataset.
+- Ensured smooth transitions between story points for clear storytelling.
+- Storyboard saved in Tableau workbook (housing-project.twbx) and aligned with dashboard visuals.
