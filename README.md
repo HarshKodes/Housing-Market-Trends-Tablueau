@@ -19,3 +19,12 @@ Workflow
 - ⬜ Storyboard & Insights (publish Tableau story)
 Repository Contents
 - Data-Analysis.ipynb → Colab notebook with dataset exploration
+
+🧹 Data Cleaning Progress
+- Checked dataset in Tableau for null values using filters.
+- Verified numeric vs categorical fields (e.g., Price, Area, Bedrooms, Bathrooms, Furnishing Status).
+- Began handling missing values:
+- Excluded rows with nulls in critical fields (like Price).
+- Replaced nulls in optional fields (e.g., Year Renovated → “Not Renovated”).
+- Standardized categorical values (e.g., “yes/no” → “Yes/No”, furnishing status categories aligned).
+- Saved cleaned workbook (housing-project.twbx) for further visualization.
